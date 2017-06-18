@@ -1,0 +1,56 @@
+body,
+html,
+ul,
+ol,
+dl,
+li,
+dt,
+dd,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+input,
+table,
+fieldset,
+legend,
+img {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+img {
+    display: block;
+}
+
+img,
+fieldset {
+    border: none;
+}
+
+body {
+    font-family: "微软雅黑";
+}
+/*字体图标*/
+@font-face {
+  font-family: 'iconfont';  /* project id 259609 */
+  src: url('//at.alicdn.com/t/font_c0s9iq4qwbem6lxr.eot');
+  src: url('//at.alicdn.com/t/font_c0s9iq4qwbem6lxr.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_c0s9iq4qwbem6lxr.woff') format('woff'),
+  url('//at.alicdn.com/t/font_c0s9iq4qwbem6lxr.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_c0s9iq4qwbem6lxr.svg#iconfont') format('svg');
+}
