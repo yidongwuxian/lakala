@@ -1,0 +1,137 @@
+{
+	"errno": 0,
+	"data": [
+		[
+			{
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "RT",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "RT",
+				"fromCity": "南京",
+				"fromCitySpell":"NANJING",
+				"toCity": "天津",
+				"toCitySpell":"TIANJIN",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "乌鲁木齐",
+				"fromCitySpell":"WULUMUQI",
+				"toCity": "哈萨克斯坦",
+				"toCitySpell":"HASAKASITAN",
+				"createtime": "1475164800000"
+			}
+		],
+		[
+			{
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "RT",
+				"fromCity": "纽约",
+				"fromCitySpell":"NIUYUE",
+				"toCity": "巴黎",
+				"toCitySpell":"BALI",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "华盛顿",
+				"fromCitySpell":"HUASHENGDUN",
+				"toCity": "多伦多",
+				"toCitySpell":"DUOLUNDUO",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}
+		],
+		[
+			{
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}
+		],
+		[
+			{
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "OW",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}, {
+				"id": 1001,
+				"userid": "u9001",
+				"nickname": "李留白",
+				"tripType": "RT",
+				"fromCity": "北京",
+				"fromCitySpell":"BEIJING",
+				"toCity": "上海",
+				"toCitySpell":"SHANGHAI",
+				"createtime": "1475164800000"
+			}
+		]
+	]
+}

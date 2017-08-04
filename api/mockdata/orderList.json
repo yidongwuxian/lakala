@@ -1,0 +1,42 @@
+{
+	"errno": 0,
+	"data": [
+			{
+				"fromCity": "北京",
+				"toCity": "上海",
+				"fromDate":"4月12日",
+				"fromTime":"17:35",
+				"fromT":"T1",
+				"toDate":"4月12日",
+				"toTime":"20:55",
+				"toT":"T1",
+				"flightNo":"ZH9481",
+				"price":"1080",
+				"status":"待支付"
+			}, {
+				"fromCity": "纽约",
+				"toCity": "巴黎",
+				"fromDate":"4月13日",
+				"fromTime":"12:35",
+				"fromT":"T1",
+				"toDate":"4月14日",
+				"toTime":"20:55",
+				"toT":"T1",
+				"flightNo":"ZH981",
+				"price":"1080",
+				"status":"已取消"
+			}, {
+				"fromCity": "北京",
+				"toCity": "上海",
+				"fromDate":"4月17日",
+				"fromTime":"17:35",
+				"fromT":"T1",
+				"toDate":"4月17日",
+				"toTime":"20:55",
+				"toT":"T1",
+				"flightNo":"ZH4565",
+				"price":"1080",
+				"status":"支付成功"
+			}
+	]
+}
